@@ -12,9 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //Hello World
-    }
-
+        //This is the updated change
 
 }
 
